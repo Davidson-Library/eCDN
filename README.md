@@ -37,5 +37,5 @@ There is no "add a directory/file" button in the Github web interface, but you c
 
 ex. `assets/readme.md`
 
-![gif showing how to create a subdir in github](https://davidson-library.github.io/eCDN/tutorial-assets/creating_subdir_github.gif)
+![gif of adding a subdir](tutorial-assets/creating_subdir_github.gif)
 
