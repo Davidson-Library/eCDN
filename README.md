@@ -7,6 +7,7 @@ This is the ersatz CDN (content delivery network) for the Davidson College Libra
 Directory | Purpose
 --- | ---
 libguides | persistent assets for use in Davidson College library's libguides
+icons | icons to be deployed in or on behalf of library systems 
 
 
 ### Usage
@@ -18,7 +19,7 @@ The URL template for the images is:
 `{directory}` = a directory listed above
 `{file}` = file found in the directory
 
-Example: https://davidson-library.github.io/eCDN/
+Example: https://davidson-library.github.io/eCDN/icons/leganto_moodle_icon.png
 
 ### Notes
 
