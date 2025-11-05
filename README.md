@@ -8,7 +8,7 @@ Directory | Purpose
 --- | ---
 libguides | persistent assets for use in Davidson College library's libguides
 icons | icons to be deployed in or on behalf of library systems 
-assets | assets
+tutorial-assets | assets
 
 
 ### Usage
@@ -37,5 +37,5 @@ There is no "add a directory/file" button in the Github web interface, but you c
 
 ex. `assets/readme.md`
 
-![gif showing how to create a subdir in github](https://davidson-library.github.io/eCDN/assets/creating_subdir_github.gif)
+![gif showing how to create a subdir in github](https://davidson-library.github.io/eCDN/tutorial-assets/creating_subdir_github.gif)
 
