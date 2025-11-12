@@ -1,6 +1,6 @@
 # Davidson Library Ersatz CDN
 
-This is the ersatz CDN (content delivery network) for the Davidson College Library, modeled on our colleagues' in [College Comms](https://github.com/DavidsonCollege/eCDN). The repo hosts files (primarily images) for utilization in websites, LMS, or other integrations with library systems. 
+This is the ersatz CDN (content delivery network) for the Davidson College Library, modeled on our colleagues' in [College Comms](https://github.com/DavidsonCollege/eCDN). [This Github repo](https://github.com/Davidson-Library/eCDN) hosts files (primarily images) for utilization in websites, LMS, or other integrations with library systems. 
 
 ### Directory information
 
